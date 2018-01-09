@@ -7,6 +7,6 @@ scanf("%d",&n);
 for(i=1;i<n;i++)
 {
 fact=n*i;
-printf("The factorial of given number is %d",fact);
 }
+printf("The factorial of given number is %d",fact);
 }
