@@ -12,6 +12,5 @@ void main()
           c++;
         }
     }
-  printf("Number of spaces is %d" c);
   printf("Number of words is %d",c+1);
 }
