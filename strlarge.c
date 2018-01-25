@@ -13,6 +13,10 @@ if(c>d)
 {
 printf("%s",a);
 }
+else if(c=d)
+{
+printf("%s %s",a,b);
+}
 else
 {
 printf("%s",b);
